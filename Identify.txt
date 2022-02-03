@@ -1,5 +1,5 @@
 Please enter your details:
 
-Name: 
-NETID:
-Favorite book and author: 
+Name: Shanglin Li
+NETID: C12062389
+Favorite book and author: War and Peace,  Leo Tolstory
